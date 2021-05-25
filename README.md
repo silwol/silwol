@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+The interesting stuff you'd expect to find here is probably over there at [GitLab](https://gitlab.com/silwol).
+
 <!--
 **silwol/silwol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
